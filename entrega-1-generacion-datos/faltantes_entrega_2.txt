@@ -1,0 +1,16 @@
+ENTREGA 2 - VERSION PRELIMINAR DEL PROYECTO
+
+Partes completadas:
+
+1. Generacion pseudoaleatoria de los archivos de productos, vendedores y ventas.
+2. Lectura y validacion de todos los archivos de entrada.
+3. Generacion del reporte de vendedores ordenado por dinero recaudado, de mayor a menor.
+4. Generacion del reporte de productos vendidos ordenado por cantidad vendida, de mayor a menor.
+5. Validacion de formatos, cantidades positivas e identificadores de productos y vendedores existentes.
+
+Partes pendientes para la entrega final:
+
+1. Revision final del proyecto y de la documentacion con base en la retroalimentacion del docente.
+2. Inclusion del archivo conslusion.txt solicitado para la Entrega 3, con los aprendizajes, aplicaciones profesionales y dificultades del proyecto.
+
+No hay requisitos funcionales obligatorios pendientes para esta version preliminar.
