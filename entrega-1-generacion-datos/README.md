@@ -1,6 +1,6 @@
 # Generacion y clasificacion de datos
 
-Proyecto de Eclipse para Java 8. Incluye la Entrega 1 y la version preliminar de la Entrega 2.
+Proyecto final de Eclipse para Java 8. Incluye las entregas 1, 2 y 3.
 
 ## Ejecucion
 
@@ -28,4 +28,5 @@ El segundo programa tampoco solicita datos al usuario. Lee los archivos anterior
 - Productos referenciados en ventas que existen en `products.csv`.
 - Nombres en ingles, indentacion y documentacion JavaDoc.
 - Reportes requeridos y validacion de archivos con formato o datos incoherentes.
-- Documento `faltantes_entrega_2.txt` con el estado de esta entrega preliminar.
+- Archivo `conslusion.txt` con los aprendizajes, aplicaciones profesionales y
+  dificultades presentadas durante el proyecto.

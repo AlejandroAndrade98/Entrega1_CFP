@@ -1,0 +1,28 @@
+CONCLUSION DEL PROYECTO
+
+1. Lo aprendido durante el desarrollo del proyecto
+
+Durante el desarrollo de este proyecto se fortalecieron los conocimientos sobre la
+estructura de un programa en Java, el uso de clases y metodos, el manejo de
+colecciones y la lectura y escritura de archivos de texto. Tambien se practico la
+validacion de datos, el ordenamiento de informacion y la importancia de documentar
+el codigo mediante comentarios JavaDoc. El proyecto permitio comprender como los
+datos de varios archivos pueden procesarse para generar reportes utiles.
+
+2. Posibles aplicaciones profesionales
+
+Las habilidades aplicadas en el proyecto pueden utilizarse en sistemas que reciben,
+organizan y analizan informacion, por ejemplo en aplicaciones de ventas, inventarios,
+facturacion o gestion de clientes. El manejo de archivos, la validacion de datos y
+la generacion de reportes son actividades frecuentes en el desarrollo de software,
+por lo que estos conocimientos ayudan a construir programas mas confiables y faciles
+de mantener.
+
+3. Dificultades presentadas durante el desarrollo
+
+Una de las principales dificultades fue definir una estructura clara para relacionar
+la informacion de productos, vendedores y ventas sin duplicar datos. Tambien fue
+necesario validar los formatos de los archivos y asegurar que los identificadores,
+precios y cantidades fueran coherentes. Estas dificultades se resolvieron separando
+las responsabilidades de cada metodo, utilizando colecciones para almacenar los
+datos y realizando pruebas con los archivos generados por el programa.
